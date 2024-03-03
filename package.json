@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@chatscope/chat-ui-kit-react": "^1.10.1"
+    "@chatscope/chat-ui-kit-react": "^1.10.1",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.4"
   }
 }
